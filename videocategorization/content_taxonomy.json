@@ -1,0 +1,233 @@
+{
+    "Entertainment": {
+      "Comedy": {
+        "Stand-up": {},
+        "Sketches": {},
+        "Parodies": {}
+      },
+      "Music": {
+        "Music Videos": {},
+        "Covers": {},
+        "Remixes": {},
+        "Lyric Videos": {}
+      },
+      "Movies & Trailers": {
+        "Film Trailers": {},
+        "Short Films": {},
+        "Movie Reviews": {}
+      },
+      "Gaming": {
+        "Let's Plays": {},
+        "Game Reviews": {},
+        "Walkthroughs": {},
+        "Game Commentary": {}
+      },
+      "Vlogs": {
+        "Daily Vlogs": {},
+        "Travel Vlogs": {},
+        "Storytime": {}
+      },
+      "Livestreams": {
+        "Gaming Livestreams": {},
+        "Q&A Sessions": {},
+        "Event Livestreams": {}
+      }
+    },
+    "Education": {
+      "Tutorials": {
+        "Software Tutorials": {},
+        "DIY & Crafts": {},
+        "Cooking Tutorials": {}
+      },
+      "Lectures & Talks": {
+        "Academic Lectures": {},
+        "TED Talks": {},
+        "Motivational Talks": {}
+      },
+      "Science & Technology": {
+        "Science Explainers": {},
+        "Tech Reviews": {},
+        "Engineering Projects": {}
+      },
+      "Language Learning": {
+        "Language Lessons": {},
+        "Pronunciation Guides": {}
+      },
+      "History & Culture": {
+        "Documentaries": {},
+        "Cultural Explainers": {},
+        "Historical Analysis": {}
+      },
+      "Business & Finance": {
+        "Entrepreneurship": {},
+        "Investment Guides": {},
+        "Marketing Strategies": {}
+      }
+    },
+    "Lifestyle": {
+      "Health & Fitness": {
+        "Workout Routines": {},
+        "Nutrition Guides": {},
+        "Mental Health Tips": {}
+      },
+      "Fashion & Beauty": {
+        "Makeup Tutorials": {},
+        "Fashion Hauls": {},
+        "Skincare Routines": {}
+      },
+      "Travel": {
+        "Destination Guides": {},
+        "Travel Tips": {},
+        "Travel Vlogs": {}
+      },
+      "Food & Cooking": {
+        "Recipe Videos": {},
+        "Cooking Shows": {},
+        "Food Reviews": {}
+      },
+      "Home & Garden": {
+        "Home Improvement": {},
+        "Gardening Tips": {},
+        "Interior Design": {}
+      },
+      "Parenting & Family": {
+        "Parenting Tips": {},
+        "Family Vlogs": {},
+        "Childcare Advice": {}
+      }
+    },
+    "News & Politics": {
+      "News Reports": {
+        "Breaking News": {},
+        "Political News": {},
+        "World News": {}
+      },
+      "Opinion & Commentary": {
+        "Political Commentary": {},
+        "Social Commentary": {},
+        "Editorials": {}
+      },
+      "Interviews": {
+        "Celebrity Interviews": {},
+        "Political Interviews": {},
+        "Expert Interviews": {}
+      },
+      "Debates": {
+        "Political Debates": {},
+        "Social Issue Debates": {}
+      }
+    },
+    "Sports": {
+      "Highlights & Replays": {
+        "Game Highlights": {},
+        "Match Replays": {}
+      },
+      "Sports Commentary": {
+        "Analysis Shows": {},
+        "Sports Talk Shows": {}
+      },
+      "Athlete Profiles": {
+        "Career Highlights": {},
+        "Documentary Profiles": {}
+      },
+      "Fitness & Training": {
+        "Athlete Workouts": {},
+        "Training Techniques": {}
+      }
+    },
+    "Art & Creativity": {
+      "Visual Arts": {
+        "Painting Tutorials": {},
+        "Drawing Tutorials": {},
+        "Art Exhibitions": {}
+      },
+      "Photography & Film": {
+        "Photography Tips": {},
+        "Cinematography": {},
+        "Short Films": {}
+      },
+      "Crafts & DIY": {
+        "Home Crafts": {},
+        "DIY Projects": {},
+        "Upcycling": {}
+      },
+      "Writing & Literature": {
+        "Writing Tips": {},
+        "Book Reviews": {},
+        "Poetry Readings": {}
+      }
+    },
+    "Science & Technology": {
+      "Tech Reviews": {
+        "Gadget Reviews": {},
+        "Software Reviews": {}
+      },
+      "Science Explainers": {
+        "Physics": {},
+        "Biology": {},
+        "Chemistry": {}
+      },
+      "Space Exploration": {
+        "Astronomy": {},
+        "Space Missions": {}
+      },
+      "Engineering": {
+        "Mechanical Engineering": {},
+        "Electrical Engineering": {}
+      },
+      "Environmental Science": {
+        "Climate Change": {},
+        "Conservation Efforts": {}
+      },
+      "Artificial Intelligence": {
+        "AI Concepts": {},
+        "Machine Learning Tutorials": {}
+      }
+    },
+    "Automotive": {
+      "Car Reviews": {},
+      "Car Modifications": {},
+      "Driving Tutorials": {},
+      "Motorsports": {
+        "Racing Highlights": {},
+        "Motorsport Commentary": {}
+      },
+      "Off-Roading": {}
+    },
+    "Hobbies & Interests": {
+      "Collecting": {
+        "Toy Collections": {},
+        "Stamp Collections": {},
+        "Memorabilia": {}
+      },
+      "Board Games & Puzzles": {
+        "Gameplay Tutorials": {},
+        "Game Reviews": {}
+      },
+      "Outdoor Activities": {
+        "Camping": {},
+        "Hiking": {},
+        "Fishing": {}
+      },
+      "Arts & Crafts": {
+        "Knitting": {},
+        "Pottery": {},
+        "Scrapbooking": {}
+      },
+      "Listicles & Rankings": {
+        "Top 10 Videos": {},
+        "Best of [Category]": {},
+        "Ranked Lists": {},
+        "Must-See [Topic]": {},
+        "Buyer’s Guides": {}
+      },
+    "Miscellaneous": {
+      "ASMR": {},
+      "Unboxing Videos": {},
+      "Reaction Videos": {},
+      "Pranks": {},
+      "Social Experiments": {}
+    }
+  }
+}
+  

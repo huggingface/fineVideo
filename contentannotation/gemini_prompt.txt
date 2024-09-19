@@ -1,0 +1,24 @@
+Study the video and provide the following details about the video and the semantic scenes that compose it:
+
+- characterList: a list of characters that appear in the whole video and a visual description that should allow me to identify them just seeing an image of them.
+- scenes: a list of the scenes with the following properties:
+  - start/end timestamps of the scene
+  - list of all the characters that appear in the scene
+  - list of all activities and their timestamps
+  - list of all props and their timestamps
+  - list of all video editing details and their start/end timestamps. Details include transitions, effects, music as well as suggestions like segments of the scene that could be removed and why 
+  - scene mood with notes on how the visuals, audio and context contribute to it. Use the following taxonomy returning only the name in your answer {"moods":{"Positive":[{"name":"Happy","description":"Feeling joyful, content, or delighted."},{"name":"Excited","description":"Feeling enthusiastic, energetic, or eager."},{"name":"Calm","description":"Feeling peaceful, relaxed, or serene."},{"name":"Grateful","description":"Feeling appreciative or thankful."},{"name":"Proud","description":"Feeling satisfied with one's achievements or the achievements of others."}],"Negative":[{"name":"Sad","description":"Feeling down, unhappy, or sorrowful."},{"name":"Angry","description":"Feeling irritated, frustrated, or furious."},{"name":"Anxious","description":"Feeling nervous, worried, or uneasy."},{"name":"Lonely","description":"Feeling isolated, disconnected, or abandoned."},{"name":"Bored","description":"Feeling uninterested, disengaged, or restless."}],"Neutral":[{"name":"Indifferent","description":"Feeling neither particularly positive nor negative."},{"name":"Content","description":"Feeling satisfied but not overly excited."},{"name":"Curious","description":"Feeling interested or inquisitive without strong emotion."},{"name":"Confused","description":"Feeling uncertain or unclear but without strong negative feelings."},{"name":"Pensive","description":"Feeling thoughtful or reflective without strong emotional engagement."}]}}
+    - specific  mood changing moments inside the scene, report the timestamp and what we transition from/to in any of the dimensions (visual / auditive)
+  - scene narrative progression and plot development
+    - specific narrative moments inside the scene. Report the timestamp and what happened
+  - character interaction and dynamics descriptions and their start/end timestamps
+  - specific thematic elements and descriptions
+  - specific relevant happenings to create deeper meanings and subtexts not explicitly stated that contribute to the richness and depth of the content, timestamp and descriptions
+  - dynamism score of the scene. Score between 0 and 1. 1 is highly dynamic
+  - audio - visual correlation score. Score between 0 and 1. 0 what we see is not correlated with the speech and 1 is highly correlated
+
+- storylines: a list of the different storylines found and which scenes belong to it. 
+  - Specify where is the climax (scene and timestamp) and if the content is being presented a narrative story, or is it more like a collection of facts or non-narrative information
+  - if there are scenes not matching storylines, explain how those scenes contribute to the video
+- looking at the overall video and the storylines, which segments of the video could be trimmed to make it more dynamic?
+- q&a: a list of 5 questions/answers about the video that focus on fine details (objects and or activities), overall story reasoning and mood. Focus on Q&A aspects captured on the audio and the video whenever possible difficult to get only by looking at the transcription.
